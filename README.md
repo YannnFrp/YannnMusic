@@ -1,11 +1,11 @@
-<h1 align="center">DAISYX MUSIC V5.0 🎵</h1>
+<h1 align="center">YannnMusic 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
 ### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/8dbaf96206bfccaf27ea2.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -26,7 +26,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyXMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/YannnFrp/YannnMusic)
 
 Get pyrogram (p)  `SESSION` from here:
 
@@ -35,7 +35,7 @@ Get pyrogram (p)  `SESSION` from here:
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-get install git)
-$ git clone https://github.com/TeamDaisyX/DaisyXmusic
+$ git clone https://github.com/YannnFrp/YannnMusic
 $ cd DaisyXMusic
 # Upgrade sources
 # Install All Requirements 
@@ -136,7 +136,7 @@ Also DaisyXmusic is inspired by many opensource bots and userbots
 ## Copyright & License 👮
 
  - Copyright (C) 2020 - 2021 by [TeamDaisyX](github.com/teamdaisyx) ❤️️
- - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/TeamDaisyX/DaisyXMusic/blob/master/LICENSE)
+ - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/YannnFrp/YannnMusic/blob/master/LICENSE)
     
 DaisyXMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
 ## Made with ♥️ by [TeamDaisyX](https://github.com/TeamDaisyX)
